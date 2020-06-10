@@ -1,7 +1,7 @@
 # devtalks-romania
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChakriCherukuri/devtalks-romania/master?urlpath=Index.ipynb)
 
-Notebooks of my talk at Dev<Talks/> Reimagined.
+Notebooks of my talk at [Dev<Talks/> Reimagined](https://www.devtalks.ro/)
 
 ## Environment Setup (for running the notebooks)
 If you have [miniconda](https://docs.conda.io/en/latest/miniconda.html) distribution, then do the following steps to start the jupyter notebook:
